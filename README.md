@@ -31,4 +31,4 @@ Running the Code
 
 ## Tutorials for Chapel are available at 
 
-Click here to redirect -> [link] (https://sites.google.com/lbl.gov/cs267-spr2021)
+Click here to redirect -> [link](https://sites.google.com/lbl.gov/cs267-spr2021)
